@@ -1,3 +1,4 @@
+<img width="1326" height="743" alt="Screenshot 2025-09-08 010636" src="https://github.com/user-attachments/assets/934591d7-d3d2-47cc-bd4b-35e5497bca97" />
 # amazon-product-sales.
 
 # 📊 Sales Analytics Dashboard (Power BI)
